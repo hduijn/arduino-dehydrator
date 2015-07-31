@@ -1,6 +1,10 @@
 # arduino-dehydrator
 Dehydrator project based on Arduino
 
+## Author
+
+Author Name <hugovanduijn@gmail.com>
+
 ## Synopsis
 
 Dehydrator project using Arduino for creating custom dehydrators. 

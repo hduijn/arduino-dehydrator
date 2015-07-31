@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c" icon="Temp.png">
+    <title>Temp</title>
+    <instances>
+        <instance moduleIdRef="1602 with I2C_9f4d42ceed5efecea4dce6e328b7151c_37" modelIndex="85428522" path="C:/Users/hugov_000/AppData/Roaming/Fritzing/parts/user/1602 with I2C_9f4d42ceed5efecea4dce6e328b7151c_37.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ky-040_213c151a688d58f9aaaec7b2af2d1c10_1" modelIndex="85428524" path="C:/Users/hugov_000/AppData/Roaming/Fritzing/partfactory/11df76b0a1fe194754c124549042dfc8/contrib/ky-040_213c151a688d58f9aaaec7b2af2d1c10_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Tantalum0.47uf_729d1cfc4db9c2b38f48e38c2cb4df04_1" modelIndex="85428526" path="C:/Users/hugov_000/AppData/Roaming/Fritzing/parts/user/Tantalum0.47uf_729d1cfc4db9c2b38f48e38c2cb4df04_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

@@ -26,6 +26,8 @@ Key components used:
 - KY-015 Temp + Moist sensor
 - 1602 16x2 HD44780 Character LCD /w IIC/I2C Serial Interface 
 - 60mm fans for airflow
+- C14 inlet with 10A buildin fuse + switch
+- 9V 35W powersupply for arduino and silent fan operation. 
 - skilled woodworker / case builder
 
 
